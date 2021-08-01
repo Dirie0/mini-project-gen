@@ -1,1 +1,6 @@
-{'Product name': 'train', 'Product price': 10000000}{'Product name': 'peanut', 'Product price': 0.01}{'Product name': 'house', 'Product price': 5000000.0}{'Product name': 'pillow', 'Product price': 3.0}{'Product name': 'banana', 'Product price': 1.0}
+Product name,Product price
+train,10000.0
+helicopter,100000000.0
+book,1.0
+water,1.0
+laptop,10000.0
