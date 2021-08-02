@@ -1,6 +1,9 @@
 Customer name,Customer address,Customer phone,Courier id,Status,Product IDs
 Dirie,London,890832193821,0,Ready,"[1, 2]"
 James,Scotland,308910832189302,1,Ready,[1]
-Sarah,Earth,382138219,2,Preparing,"[2, 3]"
+Sarah,Earth,382138219,2,Ready,"[2, 3]"
 Ronaldo,london,98032901832,0,Ready,"[1, 2]"
-
+Ali,39382109,32839021,0,Preparing,"[1, 2]"
+Mary,America,8033092183,3,Ready,"[1, 2]"
+mo,stateless,3892130219,2,Preparing,"[4, 5]"
+sam,london,83092183,0,Ready,"[0, 1]"
